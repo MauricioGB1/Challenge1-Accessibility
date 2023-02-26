@@ -27,11 +27,11 @@ Google Chrome, Microsoft Edge, Apple Safari, Opera, Brave, Vivaldi.
 ## Usage
 
 -Images have the proper alt accessibility.
--Images, texts , colors and contrasts inspected for visual accessibility 
+-Images, texts , colors and contrasts inspected for visual accessibility.
 
 ## Credits
 
-- This website is possible thank you to starting code provided by Virtual Boot Camp " Rice University"
+- This website is possible thank you to starting code provided by Virtual Boot Camp " Rice University".
 
 ## License
 
@@ -58,4 +58,4 @@ Google Chrome, Microsoft Edge, Apple Safari, Opera, Brave, Vivaldi.
 
 ## Tests
 
-- Testing using Chrom Development tools to inspect each element for accesibility acceptance
+- Testing using Chrom Development tools to inspect each element for accesibility acceptance.
