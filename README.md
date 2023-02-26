@@ -1,4 +1,4 @@
-# <Module 1 Challenge: Code refractor  HTML, CSS and Accessibility>
+# Module 1 Challenge: Code refractor  HTML, CSS and Accessibility
 
 
 ## Description
