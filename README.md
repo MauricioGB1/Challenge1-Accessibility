@@ -21,7 +21,8 @@
 
 ## Installation
 
-- Website does not requires installation, website can run and it is supported  in standard web browser Google, firefox, 
+- Website does not requires installation, website can run and it is supported  in standard web browser:
+Google Chrome, Microsoft Edge, Apple Safari, Opera, Brave, Vivaldi.
 
 ## Usage
 
